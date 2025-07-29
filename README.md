@@ -1,1 +1,1 @@
-# git-devops-automation
+# git-functions-automation
