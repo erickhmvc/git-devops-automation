@@ -1,0 +1,1 @@
+Teste da função corrigida
